@@ -1,0 +1,15 @@
+version: "3"
+services:
+  build:
+    image: klakegg/hugo:0.111.3-ext
+    volumes:
+      - ./src/:/src/
+  server:
+    image: klakegg/hugo:0.111.3-ext
+    # command: server
+    entrypoint: /bin/bash
+    volumes:
+      - ./src/:/src/
+    ports:
+      - "1313:1313"
+    tty: true
