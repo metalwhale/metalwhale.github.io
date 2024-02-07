@@ -1,0 +1,13 @@
+<footer class="footer">
+    {{ partial "footer/links-social.html" . }}
+    {{ partial "footer/go-to-top" . }}
+    <hr />
+    <div class="footer__poweredby">
+        <p class="caption">
+            Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+        </p>
+        {{ if $.Param "showPoweredBy" }}
+            <p class="caption">Powered by <a href="https://gohugo.io/" target="_blank" rel="noreferrer">Hugo</a> and the <a href="https://github.com/zzossig/hugo-theme-zzo" target="_blank" rel="noreferrer">Zzo theme</a></p>
+        {{ end }}
+    </div>
+</footer>

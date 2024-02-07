@@ -1,15 +1,13 @@
 version: "3"
 services:
   build:
-    image: klakegg/hugo:0.111.3-ext
+    image: klakegg/hugo:0.82.0-ext
     volumes:
       - ./src/:/src/
   server:
-    image: klakegg/hugo:0.111.3-ext
-    # command: server
-    entrypoint: /bin/bash
+    image: klakegg/hugo:0.82.0-ext
+    command: server
     volumes:
       - ./src/:/src/
     ports:
       - "1313:1313"
-    tty: true

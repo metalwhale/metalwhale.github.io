@@ -1,0 +1,43 @@
+logoText = "MetalWhale"
+
+themeOptions = ["dark", "light"]
+
+# header
+homeHeaderType = "text"
+
+# navbar
+enableThemeChange = true
+
+# body
+enableBreadcrumb = true
+enableSearch = true
+enableSearchHighlight = true
+enableGoToTop = true
+summaryShape = "classic"
+archivePaginate = 10
+
+# whoami
+myname = "Metal Whale"
+email = "metalwhale.dev@gmail.com"
+whoami = "metalhead"
+bioImageUrl = "https://github.com/metalwhale.png"
+location = "Tokyo, Japan"
+
+# sidebar
+enableBio = true
+enableSidebar = true
+enableSidebarTags = true
+enableSidebarSeries = true
+enableSidebarCategories = true
+tocFolding = true
+enableTocSwitch = true
+
+# footer
+showPoweredBy = true
+showSocialLinks = true
+
+[socialOptions]
+  email = "mailto:metalwhale.dev@gmail.com"
+  github = "https://github.com/metalwhale"
+  reddit = "https://www.reddit.com/user/metalwhaledev"
+  twitter = "https://twitter.com/metalwhaledev"

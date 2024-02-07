@@ -4,5 +4,5 @@ Hello world. Welcome to me.
 ## Local development
 ### Serving
 ```bash
-docker compose up -d server
+docker compose up server
 ```
