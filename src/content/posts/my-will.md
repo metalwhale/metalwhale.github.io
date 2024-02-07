@@ -105,6 +105,7 @@ description: "This is the list of songs which I want played at my funeral"
 
 ### Demotional
 - Boiling point
+- Northern star
 
 ### Disturbed
 - A Reason to Fight
