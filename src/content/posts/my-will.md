@@ -178,6 +178,9 @@ description: "This is the list of songs which I want played at my funeral"
 ### Green Day
 - 21 Guns
 
+### Hải Băng
+- Viên Đá Nhỏ
+
 ### Halestorm
 - I Am the Fire
 
@@ -185,7 +188,7 @@ description: "This is the list of songs which I want played at my funeral"
 - 二時間だけのバカンス
 
 ### Hồ Quỳnh Hương
-- Với Anh Em Vẫn Là Cô Bé `(x)`
+- Với Anh Em Vẫn Là Cô Bé
 
 ### Imagine Dragons
 - Natural
@@ -318,10 +321,6 @@ description: "This is the list of songs which I want played at my funeral"
 ### SPITZ
 - チェリー
   > いつかまたこの場所で。君とめぐり会いたい。
-
-### Suraj Jagan
-- Give Me Some Sunshine
-  > Give Me Some Sunshine. Give Me Some Rain.
 
 ### Terror
 - Hard Lessons
